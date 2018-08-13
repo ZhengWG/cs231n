@@ -1,1 +1,1 @@
-#CS231 assignments
+#CS231 Assignments 2017
